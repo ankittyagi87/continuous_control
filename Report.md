@@ -40,7 +40,7 @@ WEIGHT_DECAY = 0        # L2 weight decay
 ## Plot of Rewards
 
 ![Scores](results/scores.png)
-The agent was able to resolve the environment in 249 episodes.
+The agent was able to resolve the environment in 349 episodes.
 
 ## Observations/Issues
 
